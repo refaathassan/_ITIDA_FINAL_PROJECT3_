@@ -1,0 +1,72 @@
+[
+    {
+        "accountnumber": null,
+        "balance": null,
+        "fullname": "sdf dfas",
+        "password": "123467",
+        "type": "admin",
+        "username": "refaathassan"
+    },
+    {
+        "accountnumber": "253727",
+        "balance": 25,
+        "fullname": "refathasn",
+        "password": "897",
+        "type": "user",
+        "username": "refo"
+    },
+    {
+        "accountnumber": "178740",
+        "balance": 30,
+        "email": "refaathassanv@gmail.com",
+        "fullname": "refaatemail",
+        "password": "101033",
+        "type": "user",
+        "username": "refaatemail"
+    },
+    {
+        "accountnumber": "936037",
+        "balance": 60,
+        "email": "refaathassanm@gmail.com",
+        "fullname": "keroemail",
+        "password": "101055",
+        "type": "user",
+        "username": "keroemail"
+    },
+    {
+        "accountnumber": "123456",
+        "balance": 70,
+        "email": "refaathassanv@gmail.com",
+        "fullname": "mohamedhassan",
+        "password": "123456",
+        "type": "user",
+        "username": "mohamed"
+    },
+    {
+        "accountnumber": "468093",
+        "balance": 0,
+        "email": "WDQ@EDFS.CL",
+        "fullname": "sdfsdfsd",
+        "password": "sdfsdfsdag",
+        "type": "user",
+        "username": "sdagsdds"
+    },
+    {
+        "accountnumber": "95167",
+        "balance": 0,
+        "email": "23dff@fwe.com",
+        "fullname": "retergraer",
+        "password": "regerer",
+        "type": "user",
+        "username": "sertrg"
+    },
+    {
+        "accountnumber": "798916",
+        "balance": 1000,
+        "email": "re@re.re",
+        "fullname": "refaadtjkh",
+        "password": "435325645",
+        "type": "user",
+        "username": "wwwwwwwwwww"
+    }
+]
